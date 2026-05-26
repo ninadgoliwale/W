@@ -12,7 +12,7 @@ from telegram import Update, ChatPermissions, ChatAdministratorRights, InlineKey
 from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQueryHandler, filters, CallbackContext
 
 # ============ CONFIGURATION ============
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8796595625:AAF2GXdlB244GK5TDXMBdFdMtzXgmna6cKw"
 OWNER_ID = 8558052873  # Bot owner (you)
 # =======================================
 
